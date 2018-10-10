@@ -7,7 +7,7 @@
 # 課題の説明
 
 ## 課題1:HelloWorld
-  [ソースファイル](HelloWorld.java)
+  [ソースファイル](HelloWorld.java)  
   printlnを用いて画面に"Hello, World!"と表示するプログラム
 ##  ![実行結果](sshot00.png)
 
@@ -16,7 +16,7 @@
 
 
 ## 課題2:J1_1
-  [ソールファイル](J1_1.java)
+  [ソールファイル](J1_1.java)  
   変数の表示、変数の足し算の結果の表示
 
 ## 実行結果　　
